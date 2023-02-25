@@ -8,7 +8,7 @@ from PIL import Image
 
 st.title('Consultar puntaje de crédito')
 
-st.markdown('- Reporte técnico: https://marloneau.quarto.pub/creacion-scorecard-para-calculo-de-puntaje-crediticio/#ajuste-del-modelo-y-realizaci%C3%B3n-de-scorecard')
+st.markdown('- Reporte técnico: https://palenciaronald.quarto.pub/ronald-palencia/posts/scorecard/')
 st.markdown('- Video acerca de la aplicación: https://youtu.be/pm0IFjFrN0s')
 
 st.markdown('## ¿Qué es el Scorecard?')
